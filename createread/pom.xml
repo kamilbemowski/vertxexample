@@ -5,7 +5,7 @@
     <parent>
         <artifactId>vertx-example</artifactId>
         <groupId>pl.bemowski</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${vertx-example.version}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -15,7 +15,7 @@
         <dependency>
             <groupId>pl.bemowski</groupId>
             <artifactId>common</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>${vertx-example.version}</version>
         </dependency>
     </dependencies>
 

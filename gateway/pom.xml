@@ -9,7 +9,15 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>common</artifactId>
+    <artifactId>gateway</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>pl.bemowski</groupId>
+            <artifactId>common</artifactId>
+            <version>${vertx-example.version}</version>
+        </dependency>
+    </dependencies>
 
 
 </project>

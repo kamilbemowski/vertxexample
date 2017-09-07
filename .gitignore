@@ -37,11 +37,7 @@ buildNumber.properties
 .idea/
 .vertx/
 common/common.iml
-common/src/main/resources/
-common/src/test/
 createread/createread.iml
 createread/src/main/java/pl/bemowski/todo/
-createread/src/test/
-update-delete/src/test/
 update-delete/update-delete.iml
 vertxexample.iml
